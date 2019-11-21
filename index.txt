@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC “-//W3C//DTD HTML 4.0 Transitional//EN”>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=cp1251" />
+<title>FEND | NEW COLLECTION</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="styles.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="Container">
+  <div id="header">
+    <ul>
+      <li><a href="#">Home Page</a></li>
+      <li><a href="#">Our Services</a></li>
+      <li><a href="#">Gallery</a></li>
+      <li><a href="#">Site Map</a></li>
+      <li><a href="#">News</a></li>
+      <li><a href="#">FAQ</a></li>
+    </ul>
+  </div>
+  
+  <div id="right">
+    <div class="post">
+			<h1>FENDI</h1>
+			<p class="descr"><small>Наш бренд Fendi выпускает капсульную коллекцию «Fendi Prints On», созданную в сотрудничестве с рэпершей <a href="#">Ники Минаж.</a></small></p> 		
+			<p>В коллекцию вошли вещи с логотипами и блестящими текстурами, в том числе двусторонние дутые куртки, нейлоновые парки, бомберы и платья с пайетками.</p>
+			    <p>Отсылки к культуре хип-хопа можно увидеть в серебристом тренировочном костюме, футболках и свитшотах. Также в капсуле есть боди, купальники и кроссовки на плафторме.<br />
+                <br />
+			     Кроме того, Ники Минаж выпускает свою версию сумок:<br />
+			      -  Peekaboo.<br />
+			      - Baguette.<br />
+			      -  Kan U.<br />
+			   
+ 			    
+	</div>
+		<div class="post">
+			<h2>Примечательно:</h2>
+			<p>Коллекция FENDI Prints On уже доступна на сайте fendi.com</p>
+		  <ul>
+					<li><a href="#">С 16 октября она появится в 52 бутиках Fendi по всему миру;</a></li>
+					<li><a href="#">Коллекция включает в себя 127 предметов одежды: обувь, купальные костюмы и сумки.  Дизайн также содержит культовый двойной логотип F;</a></li>
+					<li><a href="#">Линейка представлена ??множеством различных текстур и тканей, в том числе блестками, вышивкой, нейлоновой органзой, овчиной, норкой, кожей и многим другим, а серебристый и ярко-розовый составляют большую часть своей цветовой палитры;</a></li>
+					<li><a href="#">Дизайн также содержит культовый двойной логотип F.</a></li>
+		  </ul>
+		</div>		
+  </div>
+  <div id="left">    	
+		<div id="updates" class="boxed">
+			<h2 class="title">Company News </h2>
+			<div class="content2">
+				<ul>
+					<li>
+						<h3>June 23, 2008</h3>
+						<p><a href="#">Tempus in, lacus. Duis tempor posuere diam. Suspendisse vel tellus quis nunc malesuada porta. &#8230;</a></p>
+					</li>
+					<li>
+						<h3>March 4, 2008</h3>
+						<p><a href="#">Nulla id magna sed dolor sollicitudin laoreet. tempus in, lacus. Duis tempor posuere diam&#8230;</a></p>
+					</li>
+					<li>
+						<h3>February 18, 2008</h3>
+						<p><a href="#">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. &#8230;</a></p>
+					</li>
+					<li>
+						<h3>February 12, 2008</h3>
+						<p><a href="#"> Sed dolor sollicitudin laoreet. tempus in, lacus. Duis tempor posuere diam. Suspendisse </a></p>
+					</li>
+					<li>
+						<h3>February 1, 2008</h3>
+						<p><a href="#">Ipsum dolor sit amet, consectetuer adipiscing elit. In nec &#8230;</a></p>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+ </div>
+  <div id="footer">
+    <p>Copyright &copy; 2008. Design by <a href="http://www.metamorphozis.com/" title="Free Web Templates">Free Web Templates</a></p>
+		<p><a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a> | <a href="http://validator.w3.org/check/referer" title="This page validates as XHTML 1.0 Transitional"><abbr title="eXtensible HyperText Markup Language">XHTML</abbr></a> | <a href="http://jigsaw.w3.org/css-validator/check/referer" title="This page validates as CSS"><abbr title="Cascading Style Sheets">CSS</abbr></a></p>
+  </div>
+
+</body>
+</html>
